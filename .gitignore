@@ -3,6 +3,7 @@
 # dependencies
 node_modules/
 
+# api key
 /constants/index.js
 
 # Expo

@@ -59,7 +59,7 @@ export default function HomeScreen(){
 
             <View className = 'flex-row items-center justify-between mx-4'>
                 <Bars3CenterLeftIcon size = '30' strokeWidth={3} color = 'white' />
-                <Text className = 'text-white text-3xl font-bold'><Text className = 'text-amber-500'>M</Text>ovies</Text>
+                <Text className = 'text-white text-3xl font-bold'><Text className = 'text-amber-500'>M</Text>oviX</Text>
                 <TouchableOpacity onPress={()=>navigation.navigate('Search')}><MagnifyingGlassIcon size='30' strokeWidth = {2} color = 'white' /></TouchableOpacity>
             </View>
 
