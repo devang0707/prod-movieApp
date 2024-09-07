@@ -1,0 +1,3 @@
+Linear Gradient (to fix BVLinearGradient in UIManager) :    npm install expo-linear-gradient instead of react-native-linear-gradient 
+snap carousel : npm install react-native-snap-carousel
+? messed up authentication of api endpoints of tmdb thus giving axios 401 error , & to be used
